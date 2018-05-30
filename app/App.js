@@ -42,3 +42,5 @@ export default App = createBottomTabNavigator(
     MyTab: MyStack,
   },
 );
+
+

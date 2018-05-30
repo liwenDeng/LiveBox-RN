@@ -19,15 +19,14 @@ export default HomeScreen = createMaterialTopTabNavigator(
       tabStyle: {
         paddingTop: 2,
         height: 40,
-        alignItems:'center',
-        alignContent:'center',
-        align: 'center',
       },
       indicatorStyle: {
         backgroundColor: '#1ef7c1',
-        width: 40,
-        alignContents: 'center'
       },
     },
   }
 );
+
+HomeScreen.navigationOptions = {
+  title: '首页',
+};

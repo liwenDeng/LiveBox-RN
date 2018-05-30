@@ -4208,6 +4208,12 @@ react-native-safe-area-view@^0.8.0:
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
+react-native-super-grid@^2.3.2:
+  version "2.3.2"
+  resolved "http://registry.npm.taobao.org/react-native-super-grid/download/react-native-super-grid-2.3.2.tgz#ee4b445ac2a692bb351bd42f64d28656e8f40ca3"
+  dependencies:
+    prop-types "^15.6.0"
+
 react-native-tab-view@^0.0.77:
   version "0.0.77"
   resolved "http://registry.npm.taobao.org/react-native-tab-view/download/react-native-tab-view-0.0.77.tgz#11ceb8e7c23100d07e628dc151b57797524d00d4"
